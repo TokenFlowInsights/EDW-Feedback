@@ -1,10 +1,14 @@
 # EDW Beta Feedback
 
-This repository has been created for Beta testers to report issues and for the team to track progress on issues being worked on.
+This repository has been created for Beta testers of Token Flow's Ethereum Data Warehouse (EDW) to report issues and for the team to track progress on issues being worked on.
+
+For common "getting started" questions (or to sign up for EDW) please see the [documentation](https://docs.tokenflow.live/).
 
 ## Reporting issues, bugs and feature requests
 
-You can report issues, bugs, feature requests by opening a new issue [here](https://github.com/TokenFlowInsights/EDW-Beta-Feedback/issues)
+You can report issues, bugs, feature requests by opening a new issue [here](https://github.com/TokenFlowInsights/EDW-Beta-Feedback/issues).
+
+All triaged issues identified by testers up to 29 November 2022 have been added by the team.
 
 ## Tracking progress on issue resolution
 
