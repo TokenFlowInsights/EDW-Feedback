@@ -1,6 +1,6 @@
 # EDW Feedback
 
-This repository has been created for testers and users of Token Flow's Ethereum Data Warehouse (EDW) to report issues and for the team to track progress on issues being worked on.
+This repository has been created for testers and users of [Token Flow](https://tokenflow.live/)'s Ethereum Data Warehouse (EDW) to report issues and for the team to track progress on issues being worked on.
 
 For common "getting started" questions (or to sign up for EDW) please see the [documentation](https://docs.tokenflow.live/).
 
