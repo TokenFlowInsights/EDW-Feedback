@@ -6,7 +6,7 @@ For common "getting started" questions (or to sign up for EDW) please see the [d
 
 ## Reporting issues, bugs and feature requests
 
-You can report issues, bugs, feature requests by opening a new issue [here](https://github.com/TokenFlowInsights/EDW-Beta-Feedback/issues).
+You can report issues, bugs, feature requests by opening a new issue [here](https://github.com/TokenFlowInsights/EDW-Feedback/issues).
 
 All triaged issues identified by testers up to 29 November 2022 have been added by the team.
 
